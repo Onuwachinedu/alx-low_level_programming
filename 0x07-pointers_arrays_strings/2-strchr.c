@@ -1,6 +1,8 @@
 #include "main.h"
 
 /**
+ * _strchr - function to search for occurence of a string
+ *
  * @s: string to be scanned
  * @c: character to be searched for in s
  *
